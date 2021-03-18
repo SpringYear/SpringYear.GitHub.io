@@ -112,10 +112,6 @@
     			
             
     			
-    			<a q-on="click: openSlider(e, 'friends')" href="javascript:void(0)">友链</a>
-    			
-            
-    			
     			<a q-on="click: openSlider(e, 'aboutme')" href="javascript:void(0)">关于我</a>
     			
             
@@ -123,11 +119,13 @@
 		<nav class="header-nav">
 			<div class="social">
 				
-					<a class="qq" target="_blank" href="/assets/QQ.PNG" title="qq"><i class="icon-qq"></i></a>
+					<a class="github" target="_blank" href="https://github.com/SpringYear" title="github"><i class="icon-github"></i></a>
 		        
-					<a class="weixin" target="_blank" href="/assets/%E5%BE%AE%E4%BF%A1.PNG" title="weixin"><i class="icon-weixin"></i></a>
+					<a class="rss" target="_blank" href="/atom.xml" title="rss"><i class="icon-rss"></i></a>
 		        
-					<a class="mail" target="_blank" href="mailto:2263582427@qq.com" title="mail"><i class="icon-mail"></i></a>
+					<a class="bilibili" target="_blank" href="https://space.bilibili.com/383606785" title="bilibili"><i class="icon-bilibili"></i></a>
+		        
+					<a class="mail" target="_blank" href="mailto:zinvziqiang@outlook.com" title="mail"><i class="icon-mail"></i></a>
 		        
 			</div>
 		</nav>
@@ -164,11 +162,13 @@
 			<nav class="header-nav">
 				<div class="social">
 					
-						<a class="qq" target="_blank" href="/assets/QQ.PNG" title="qq"><i class="icon-qq"></i></a>
+						<a class="github" target="_blank" href="https://github.com/SpringYear" title="github"><i class="icon-github"></i></a>
 			        
-						<a class="weixin" target="_blank" href="/assets/%E5%BE%AE%E4%BF%A1.PNG" title="weixin"><i class="icon-weixin"></i></a>
+						<a class="rss" target="_blank" href="/atom.xml" title="rss"><i class="icon-rss"></i></a>
 			        
-						<a class="mail" target="_blank" href="mailto:2263582427@qq.com" title="mail"><i class="icon-mail"></i></a>
+						<a class="bilibili" target="_blank" href="https://space.bilibili.com/383606785" title="bilibili"><i class="icon-bilibili"></i></a>
+			        
+						<a class="mail" target="_blank" href="mailto:zinvziqiang@outlook.com" title="mail"><i class="icon-mail"></i></a>
 			        
 				</div>
 			</nav>
@@ -383,19 +383,6 @@
         </div>
         
         
-        <div class="toc-container tooltip-left">
-            <i class="icon-font icon-category"></i>
-            <div class="tooltip tooltip-east">
-                <span class="tooltip-item">
-                </span>
-                <span class="tooltip-content">
-                    <div class="toc-article">
-                    <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#1%E3%80%81%E5%B7%A5%E5%85%B7%E5%87%86%E5%A4%87"><span class="toc-number">1.</span> <span class="toc-text">1、工具准备</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#2%E3%80%81%E5%AE%89%E8%A3%85%E5%BC%80%E5%A7%8B"><span class="toc-number">2.</span> <span class="toc-text">2、安装开始</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#3%E3%80%81%E6%96%B0%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%9C%BA"><span class="toc-number">3.</span> <span class="toc-text">3、新建虚拟机</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#4%E3%80%81%E9%85%8D%E7%BD%AE%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BC%88%E8%BF%99%E6%AD%A5%E5%BE%88%E9%87%8D%E8%A6%81%EF%BC%8C%E4%BB%94%E7%BB%86%E7%9C%8B%EF%BC%89"><span class="toc-number">4.</span> <span class="toc-text">4、配置虚拟机（这步很重要，仔细看）</span></a></li></ol>
-                    </div>
-                </span>
-            </div>
-        </div>
-        
     </div>
 </aside>
 
@@ -433,7 +420,7 @@
     notify: notify,
     app_id: "BqKYRdfLdkPXbg3EBHf7ClWK-gzGzoHsz",
     app_key: "rjkOsTV9GbucNBqE0AVGp1JY",
-    placeholder: "Just go go",
+    placeholder: "来一个评论吧！",
     avatar: "mm",
 
   });
@@ -494,25 +481,17 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
       
       
     
-      
-      
-      
-    
     
 
     <ul style="width: 70%">
     
     
       
-      <li style="width: 33.333333333333336%" q-on="click: openSlider(e, 'innerArchive')"><a href="javascript:void(0)" q-class="active:innerArchive">所有文章</a></li>
+      <li style="width: 50%" q-on="click: openSlider(e, 'innerArchive')"><a href="javascript:void(0)" q-class="active:innerArchive">所有文章</a></li>
       
         
       
-      <li style="width: 33.333333333333336%" q-on="click: openSlider(e, 'friends')"><a href="javascript:void(0)" q-class="active:friends">友链</a></li>
-      
-        
-      
-      <li style="width: 33.333333333333336%" q-on="click: openSlider(e, 'aboutme')"><a href="javascript:void(0)" q-class="active:aboutme">关于我</a></li>
+      <li style="width: 50%" q-on="click: openSlider(e, 'aboutme')"><a href="javascript:void(0)" q-class="active:aboutme">关于我</a></li>
       
         
     </ul>
@@ -591,18 +570,6 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
     	</section>
     
 
-    
-    	<section class="tools-section tools-section-friends" q-show="friends">
-  		
-        <ul class="search-ul">
-          
-            <li class="search-li">
-              <a href="https://space.bilibili.com/383606785" target="_blank" class="search-title"><i class="icon-quo-left icon"></i>bilibili</a>
-            </li>
-          
-        </ul>
-  		
-    	</section>
     
 
     
