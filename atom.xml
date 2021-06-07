@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-23T14:41:10.329Z</updated>
+  <updated>2021-06-07T13:23:34.323Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,158 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Mysql数据库学习笔记</title>
+    <link href="http://example.com/2021/06/07/Mysql%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2021/06/07/Mysql%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2021-06-07T12:20:52.000Z</published>
+    <updated>2021-06-07T13:23:34.323Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;学习MySQL数据库时，记录的一些笔记&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Excel学习笔记</title>
+    <link href="http://example.com/2021/06/07/Excel%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2021/06/07/Excel%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2021-06-07T12:14:52.000Z</published>
+    <updated>2021-06-07T12:30:51.823Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;记录一些在学习exce的笔记&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP学习笔记</title>
+    <link href="http://example.com/2021/06/07/PHP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2021/06/07/PHP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2021-06-07T12:13:52.000Z</published>
+    <updated>2021-06-07T13:20:37.860Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;学习PHP时，记录的一些笔记&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Matlab学习笔记</title>
+    <link href="http://example.com/2021/06/07/Matlab%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2021/06/07/Matlab%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2021-06-07T12:11:52.000Z</published>
+    <updated>2021-06-07T12:24:10.353Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;学习Matlab时，记录的一些笔记&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mac操作小技巧</title>
+    <link href="http://example.com/2021/06/07/Mac%E6%93%8D%E4%BD%9C%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <id>http://example.com/2021/06/07/Mac%E6%93%8D%E4%BD%9C%E5%B0%8F%E6%8A%80%E5%B7%A7/</id>
+    <published>2021-06-07T12:11:52.000Z</published>
+    <updated>2021-06-07T12:56:04.744Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;一些关于Mac操作系统的实用操作小技巧（自用）&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习笔记</title>
+    <link href="http://example.com/2021/06/07/Linux%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2021/06/07/Linux%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2021-06-07T12:02:52.000Z</published>
+    <updated>2021-06-07T13:35:58.878Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;学习Linux时，记录的一些笔记&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>计算机小知识</title>
+    <link href="http://example.com/2021/06/07/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%B0%8F%E7%9F%A5%E8%AF%86/"/>
+    <id>http://example.com/2021/06/07/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%B0%8F%E7%9F%A5%E8%AF%86/</id>
+    <published>2021-06-07T10:11:20.000Z</published>
+    <updated>2021-06-07T13:27:42.268Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;整理的一些关于计算机的小知识&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python学习笔记</title>
+    <link href="http://example.com/2021/06/07/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2021/06/07/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2021-06-07T03:14:52.000Z</published>
+    <updated>2021-06-07T13:34:32.177Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;记录一些在学习python时候的需要记住的知识点&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>魔方还原教程</title>
+    <link href="http://example.com/2021/05/19/%E9%AD%94%E6%96%B9%E8%BF%98%E5%8E%9F%E6%95%99%E7%A8%8B/"/>
+    <id>http://example.com/2021/05/19/%E9%AD%94%E6%96%B9%E8%BF%98%E5%8E%9F%E6%95%99%E7%A8%8B/</id>
+    <published>2021-05-19T15:37:52.000Z</published>
+    <updated>2021-05-19T15:52:52.497Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;还原公式一&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="经验" scheme="http://example.com/tags/%E7%BB%8F%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>踽踽独行，努力终有归处</title>
     <link href="http://example.com/2021/04/18/%E8%B8%BD%E8%B8%BD%E7%8B%AC%E8%A1%8C%EF%BC%8C%E5%8A%AA%E5%8A%9B%E7%BB%88%E6%9C%89%E5%BD%92%E5%A4%84/"/>
     <id>http://example.com/2021/04/18/%E8%B8%BD%E8%B8%BD%E7%8B%AC%E8%A1%8C%EF%BC%8C%E5%8A%AA%E5%8A%9B%E7%BB%88%E6%9C%89%E5%BD%92%E5%A4%84/</id>
     <published>2021-04-18T03:14:52.000Z</published>
-    <updated>2021-04-23T14:41:10.329Z</updated>
+    <updated>2021-06-07T12:25:46.299Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/%E8%B8%BD%E8%B8%BD%E7%8B%AC%E8%A1%8C%EF%BC%8C%E5%8A%AA%E5%8A%9B%E7%BB%88%E6%9C%89%E5%BD%92%E5%A4%84/%E8%83%8C%E6%99%AF.jpg&quot;&gt;&lt;/p&gt;
@@ -73,7 +220,7 @@
     <link href="http://example.com/2021/04/04/window%E6%93%8D%E4%BD%9C%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     <id>http://example.com/2021/04/04/window%E6%93%8D%E4%BD%9C%E5%B0%8F%E6%8A%80%E5%B7%A7/</id>
     <published>2021-04-04T06:11:52.000Z</published>
-    <updated>2021-04-04T10:56:41.081Z</updated>
+    <updated>2021-06-07T13:21:40.853Z</updated>
     
     
     <summary type="html">&lt;p&gt;有些内容谨慎操作，造成损失，概不负责。&lt;/p&gt;</summary>
@@ -137,6 +284,23 @@
   </entry>
   
   <entry>
+    <title>插件推荐</title>
+    <link href="http://example.com/2021/03/18/%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    <id>http://example.com/2021/03/18/%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/</id>
+    <published>2021-03-18T06:11:52.000Z</published>
+    <updated>2021-05-25T12:35:24.472Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;一款好的插件能够让你在工作中享受如有神助的感觉，&lt;br&gt;极大的提升了工作、生活效率。&lt;br&gt;下面就来推荐几款&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="经验" scheme="http://example.com/tags/%E7%BB%8F%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>考研慎重报考</title>
     <link href="http://example.com/2021/03/17/%E8%80%83%E7%A0%94%E6%85%8E%E9%87%8D%E6%8A%A5%E8%80%83%E6%8A%A5/"/>
     <id>http://example.com/2021/03/17/%E8%80%83%E7%A0%94%E6%85%8E%E9%87%8D%E6%8A%A5%E8%80%83%E6%8A%A5/</id>
@@ -179,58 +343,6 @@
     
     
     <summary type="html">&lt;p&gt;图标在计算机可视操作系统中扮演着极为重要的角色</summary>
-    
-    
-    
-    
-    <category term="经验" scheme="http://example.com/tags/%E7%BB%8F%E9%AA%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>羽毛球规则</title>
-    <link href="http://example.com/2021/02/12/%E7%BE%BD%E6%AF%9B%E7%90%83%E8%A7%84%E5%88%99/"/>
-    <id>http://example.com/2021/02/12/%E7%BE%BD%E6%AF%9B%E7%90%83%E8%A7%84%E5%88%99/</id>
-    <published>2021-02-12T06:11:52.000Z</published>
-    <updated>2021-04-24T03:57:45.179Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/%E7%BE%BD%E6%AF%9B%E7%90%83%E8%A7%84%E5%88%99/%E8%83%8C%E6%99%AF.jpg&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1、羽毛球双打发球规则&lt;/strong&gt;&lt;br&gt;羽毛球双打发球的基本规则为：&lt;br&gt;谁得分谁发球，单数分在左区发球，0或双数分在右区发球。&lt;br&gt;只有发球方在得分时才交换发球区，对方不动。&lt;br&gt;除此以外，运动员继续站在上一回合的各自发球区不变。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="爱好" scheme="http://example.com/tags/%E7%88%B1%E5%A5%BD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>北大教授毕业演讲</title>
-    <link href="http://example.com/2021/01/06/%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E6%AF%95%E4%B8%9A%E6%BC%94%E8%AE%B2/"/>
-    <id>http://example.com/2021/01/06/%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E6%AF%95%E4%B8%9A%E6%BC%94%E8%AE%B2/</id>
-    <published>2021-01-06T06:11:52.000Z</published>
-    <updated>2021-04-24T03:58:22.427Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;在祝福裹着告诫呼啸而来的毕业季，&lt;br&gt;请原谅我不敢祝愿每一位毕业生都成功、都幸福；&lt;br&gt;因为历史不幸地记载着：&lt;br&gt;有人的成功代价是丧失良知；&lt;br&gt;有人的幸福代价是损害他人。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="摘抄" scheme="http://example.com/tags/%E6%91%98%E6%8A%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>window10安装Mac虚拟机详细教程</title>
-    <link href="http://example.com/2020/09/21/window10%E5%AE%89%E8%A3%85Mac%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/"/>
-    <id>http://example.com/2020/09/21/window10%E5%AE%89%E8%A3%85Mac%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/</id>
-    <published>2020-09-21T06:11:52.000Z</published>
-    <updated>2021-04-24T03:34:36.514Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/window10%E5%AE%89%E8%A3%85Mac%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/%E8%83%8C%E6%99%AF.jpg&quot;&gt;&lt;/p&gt;</summary>
     
     
     
