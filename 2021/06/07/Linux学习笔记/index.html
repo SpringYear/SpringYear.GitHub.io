@@ -16,7 +16,7 @@
 <meta property="og:description" content="学习Linux时，记录的一些笔记">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2021-06-07T12:02:52.000Z">
-<meta property="article:modified_time" content="2021-06-07T13:35:58.878Z">
+<meta property="article:modified_time" content="2021-06-07T14:46:16.341Z">
 <meta property="article:author" content="SpringYear">
 <meta name="twitter:card" content="summary">
   
@@ -186,7 +186,7 @@
         <p>学习Linux时，记录的一些笔记</p>
 <span id="more"></span>
 
-<h2 id="liunx"><a href="#liunx" class="headerlink" title="liunx"></a>liunx</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">rm -fr /*					删除根目录下的所有文件和目录[危险，谨慎使用]</span><br><span class="line">sudo -s						提升自己为root用户</span><br><span class="line">exit							回到先前的用户状态</span><br><span class="line">sudo apt-get update		更新当前系统软件包的信息</span><br><span class="line"><span class="meta">$</span><span class="bash">								命令行的开始，如果正以root身份执行命令，会变成<span class="comment">#</span></span></span><br><span class="line"><span class="meta">#</span><span class="bash"><span class="comment">#							注释</span></span></span><br><span class="line">/								根</span><br><span class="line">pwd							显示当前目录</span><br><span class="line">cd							改变目录</span><br><span class="line">ls							列出目录内容</span><br><span class="line">cat							查看文件内容（全部显示出来）</span><br><span class="line">cat -n					显示行号</span><br><span class="line">more						显示文件内容（一页一页的显示）</span><br><span class="line">head						显示文件头</span><br><span class="line">tail						显示文件尾</span><br><span class="line">less						文本阅读工具（/ 加上想搜索的内容 [搜索]，/  加上回车 [继续再次查找] ,加 -M的less命令可以显示更多内容）</span><br><span class="line">grep 关键字 文件名			查找文件内容</span><br><span class="line">find 查找的范围(路径) -name 文件名 -type[文件类型/可选] -print					查找文件</span><br><span class="line">locate *.doc				更快速的定位文件</span><br><span class="line"><span class="meta">$</span><span class="bash">程序$						程序在后台运行，当前终端可以继续使用</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">gedit							Ubuntu自带文本编辑器</span><br></pre></td></tr></table></figure>
+<h2 id="linux"><a href="#linux" class="headerlink" title="linux"></a>linux</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">rm -fr /*					删除根目录下的所有文件和目录[危险，谨慎使用]</span><br><span class="line">sudo -s						提升自己为root用户</span><br><span class="line">exit							回到先前的用户状态</span><br><span class="line">sudo apt-get update		更新当前系统软件包的信息</span><br><span class="line"><span class="meta">$</span><span class="bash">								命令行的开始，如果正以root身份执行命令，会变成<span class="comment">#</span></span></span><br><span class="line"><span class="meta">#</span><span class="bash"><span class="comment">#							注释</span></span></span><br><span class="line">/								根</span><br><span class="line">pwd							显示当前目录</span><br><span class="line">cd							改变目录</span><br><span class="line">ls							列出目录内容</span><br><span class="line">cat							查看文件内容（全部显示出来）</span><br><span class="line">cat -n					显示行号</span><br><span class="line">more						显示文件内容（一页一页的显示）</span><br><span class="line">head						显示文件头</span><br><span class="line">tail						显示文件尾</span><br><span class="line">less						文本阅读工具（/ 加上想搜索的内容 [搜索]，/  加上回车 [继续再次查找] ,加 -M的less命令可以显示更多内容）</span><br><span class="line">grep 关键字 文件名			查找文件内容</span><br><span class="line">find 查找的范围(路径) -name 文件名 -type[文件类型/可选] -print					查找文件</span><br><span class="line">locate *.doc				更快速的定位文件</span><br><span class="line"><span class="meta">$</span><span class="bash">程序$						程序在后台运行，当前终端可以继续使用</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">gedit							Ubuntu自带文本编辑器</span><br></pre></td></tr></table></figure>
 <br />
 <br />
 
@@ -213,11 +213,11 @@
   
 <nav id="article-nav">
   
-    <a href="/2021/06/07/Mac%E6%93%8D%E4%BD%9C%E5%B0%8F%E6%8A%80%E5%B7%A7/" id="article-nav-newer" class="article-nav-link-wrap">
+    <a href="/2021/06/07/Matlab%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" id="article-nav-newer" class="article-nav-link-wrap">
       <i class="icon-circle-left"></i>
       <div class="article-nav-title">
         
-          Mac操作小技巧
+          Matlab学习笔记
         
       </div>
     </a>
@@ -381,14 +381,6 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">理财</a>
-              </li>
-             
-              <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">随笔</a>
-              </li>
-             
-              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color3">健康</a>
               </li>
              
@@ -397,11 +389,19 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
               </li>
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">爱好</a>
+                <a href="javascript:void(0)" class="js-tag color3">理财</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color3">随笔</a>
               </li>
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color3">行业</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color3">爱好</a>
               </li>
              
               <li class="article-tag-list-item">
