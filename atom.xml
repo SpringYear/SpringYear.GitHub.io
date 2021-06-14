@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-07T13:23:34.323Z</updated>
+  <updated>2021-06-10T14:39:34.554Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>挖矿教程</title>
+    <link href="http://example.com/2021/06/10/%E6%8C%96%E7%9F%BF%E6%95%99%E7%A8%8B/"/>
+    <id>http://example.com/2021/06/10/%E6%8C%96%E7%9F%BF%E6%95%99%E7%A8%8B/</id>
+    <published>2021-06-10T12:13:52.000Z</published>
+    <updated>2021-06-10T14:39:34.554Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;挖矿教程&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>Mysql数据库学习笔记</title>
@@ -136,7 +153,7 @@
     <link href="http://example.com/2021/06/07/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     <id>http://example.com/2021/06/07/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
     <published>2021-06-07T03:14:52.000Z</published>
-    <updated>2021-06-07T14:42:06.432Z</updated>
+    <updated>2021-06-07T14:54:17.941Z</updated>
     
     
     <summary type="html">&lt;p&gt;记录一些在学习python时候的需要记住的知识点&lt;/p&gt;</summary>
@@ -220,7 +237,7 @@
     <link href="http://example.com/2021/04/04/window%E6%93%8D%E4%BD%9C%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     <id>http://example.com/2021/04/04/window%E6%93%8D%E4%BD%9C%E5%B0%8F%E6%8A%80%E5%B7%A7/</id>
     <published>2021-04-04T06:11:52.000Z</published>
-    <updated>2021-06-07T13:21:40.853Z</updated>
+    <updated>2021-06-09T15:14:40.956Z</updated>
     
     
     <summary type="html">&lt;p&gt;有些内容谨慎操作，造成损失，概不负责。&lt;/p&gt;</summary>
@@ -331,23 +348,6 @@
     
     
     <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>window10图标变白怎么解决</title>
-    <link href="http://example.com/2021/03/01/window10%E5%9B%BE%E6%A0%87%E5%8F%98%E7%99%BD%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3/"/>
-    <id>http://example.com/2021/03/01/window10%E5%9B%BE%E6%A0%87%E5%8F%98%E7%99%BD%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3/</id>
-    <published>2021-03-01T06:11:52.000Z</published>
-    <updated>2021-04-08T01:19:16.497Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;图标在计算机可视操作系统中扮演着极为重要的角色</summary>
-    
-    
-    
-    
-    <category term="经验" scheme="http://example.com/tags/%E7%BB%8F%E9%AA%8C/"/>
     
   </entry>
   
